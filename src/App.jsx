@@ -4,8 +4,8 @@ import './App.css';
 function App() {
   // Data dinamis
   const student = {
-    name: "Leni Karmila Daulay",
-    nim: "4231250006",
+    name: "Yusmita Imelda",
+    nim: "4231250002",
     major: "Ilmu Komputer"
   };
 
